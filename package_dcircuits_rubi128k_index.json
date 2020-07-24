@@ -2,7 +2,7 @@
     "packages":
     [
         {
-            "name": "Rubí 128k - AVR board with ATmega128 microcontroller.",
+            "name": "Rubi 128k",
             "maintainer": "DCircuits",
             "websiteURL": "https://dcircuits.mx",
             "email": "dcircuits13@gmail.com",
