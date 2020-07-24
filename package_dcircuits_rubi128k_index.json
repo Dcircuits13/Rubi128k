@@ -1,0 +1,35 @@
+{
+    "packages":
+    [
+        {
+            "name": "Rubí 128k - AVR board with ATmega128 microcontroller.",
+            "maintainer": "DCircuits",
+            "websiteURL": "https://dcircuits.mx",
+            "email": "dcircuits13@gmail.com",
+            "help": {
+              "online": "https://dcircuits.mx/rubi128k"
+            },
+            "platforms": 
+            [
+                {
+                    "name": "Rubí 128k (ATmega128A)",
+                    "architecture": "avr",
+                    "version": "1.0.0",
+                    "category": "Contributed",
+                    "url": "https://dcircuits13.github.io/Rubi128k/Rubi128kCore-Dcircuits-1.0.0.tar.gz",
+                    "archiveFileName": "Rubi128kCore-Dcircuits-1.0.0.tar.gz",
+                    "checksum": "SHA-256:083da0b927b10b8e03fc8c81b4205616d59591cfd572bfe4d6cea464009fa46d",
+                    "size": "296342",
+                    "toolsDependencies": [],
+                    "boards" :
+                    [
+                        {
+                            "name": "Rubí 128k"
+                        }
+                    ]
+                }
+            ],
+            "tools": []
+        }
+    ]
+}
